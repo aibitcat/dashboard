@@ -8,4 +8,9 @@
 ![CSS gzip size](http://img.badgesize.io/elemefe/mint-ui/master/lib/style.css.svg?compression=gzip&label=gzip%20size:%20CSS)
 [![Join the chat at https://gitter.im/ElemeFE/mint-ui](https://badges.gitter.im/ElemeFE/mint-ui.svg)](https://gitter.im/ElemeFE/mint-ui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-- web dashboard created
+- web dashboard env
+
+    * "npm":"5.3.0"
+    * "nodejs":"v8.4.0"
+    * "vue": "2.4.2"
+    * "vue-router": "2.7.0"
